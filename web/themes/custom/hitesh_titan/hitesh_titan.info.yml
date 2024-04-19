@@ -1,0 +1,8 @@
+name: Hitesh Titan
+description: "A custom theme for learning purposes."
+core_version_requirement: ^9 || ^10
+base theme: classy
+type: theme
+libraries:
+  - hitesh_titan/global-library
+  - core/drupal.twig_debug

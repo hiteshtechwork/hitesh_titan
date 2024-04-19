@@ -1,0 +1,9 @@
+<?php
+
+/**
+ * Implements hook_page_attachments().
+ */
+function hitesh_titan_page_attachments(array &$attachments)
+{
+    $attachments['#attached']['library'][] = 'hitesh_titan/global-library';
+}
