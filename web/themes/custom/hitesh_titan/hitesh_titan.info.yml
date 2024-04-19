@@ -1,7 +1,7 @@
 name: Hitesh Titan
 description: "A custom theme for learning purposes."
 core_version_requirement: ^9 || ^10
-base theme: classy
+base theme: olivero
 type: theme
 libraries:
   - hitesh_titan/global-library
