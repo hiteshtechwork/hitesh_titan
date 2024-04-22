@@ -3,7 +3,12 @@ global-library:
   css:
     theme:
       css/styles.css: {}
+      css/styles1.css: {}
+      css/styles2.css: {}
+      css/bootstrap.min.css: {}
   js:
     js/scripts.js: {}
+    js/bootstrap.min.js: {}
+    https://kit.fontawesome.com/7fafa48f57.js: { type: external }
   dependencies:
     - core/jquery
